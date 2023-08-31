@@ -1,0 +1,23 @@
+{
+  "name": "primesatori",
+  "version": "0.0.1",
+  "description": "橘さとりは素数を数えて落ち着きたい",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KusaReMKN/primesatori.git"
+  },
+  "keywords": [
+    "prime-numbers",
+    "mastodon-bot"
+  ],
+  "author": "KusaReMKN",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/KusaReMKN/primesatori/issues"
+  },
+  "homepage": "https://github.com/KusaReMKN/primesatori#readme"
+}
