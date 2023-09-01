@@ -56,6 +56,7 @@ main()
 			body: JSON.stringify({
 				status: `${timeInt} は素数だよ！`,
 				language: 'ja',
+				visibility: 'unlisted',
 			}),
 		};
 		fetch(url, options)
