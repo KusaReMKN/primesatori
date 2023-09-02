@@ -1,0 +1,7 @@
+.git/
+node_modules/
+LICENSE
+.gitignore
+Dockerfile
+docker-compose.yaml
+.env*

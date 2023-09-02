@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  app:
+    build: .
+    image: ghcr.io/kusaremkn/primesatori
+    env_file:
+      - ./.env
